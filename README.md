@@ -3,8 +3,7 @@
 A clean, minimal weather app built with **HTML, CSS, and JavaScript** using the **OpenWeatherMap API**. It shows real-time weather details like temperature, condition, humidity, and wind — with beautiful icons based on live data.
 
 ## 🔗 Live Demo
-[Coming Soon — GitHub Pages Link]
-
+https://vivek-shaw-02.github.io/Weather_app/
 ## 🛠 Tech Stack
 - HTML5
 - CSS3
